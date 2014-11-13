@@ -18,7 +18,7 @@ Requirements for running the run_analysis.R script:
   
   /train (This directory should contain subject_train.txt, X_train.txt,y_train.txt)
   
-  ========================================================================================================
+
   
   
 
@@ -28,7 +28,7 @@ Instructions to run the script:
   
   run_analysis()
   
- ========================================================================================================= 
+
   
   
   
