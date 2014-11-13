@@ -24,7 +24,7 @@ Requirements for running the run_analysis.R script:
   
   
 
-Instructions to run the script do the following:
+Instructions to run the script:
 
   source ("run_analysis.R")
   
