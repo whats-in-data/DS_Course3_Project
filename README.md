@@ -1,7 +1,4 @@
-DS_Course3_Project
-==================
 
-Data Sceince Coursera Course 3: Project
 Script name : run_analysis.R
 
 Requirements for running the run_analysis.R script:
