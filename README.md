@@ -5,9 +5,6 @@ Data Sceince Coursera Course 3: Project
 Script name : run_analysis.R
 
 Requirements for running the run_analysis.R script:
-1. 
-2.
-3. 
 
 1. R version 3.1.1 
 2. "plyr" package downloaded
@@ -23,12 +20,13 @@ Requirements for running the run_analysis.R script:
   
   /train (This directory should contain subject_train.txt, X_train.txt,y_train.txt)
   
+  
 
 Instructions to run the script do the following:
 
   source ("run_analysis.R")
-  
   run_analysis()
+  
   
   
 Description of what the script does:
