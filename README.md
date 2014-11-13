@@ -5,6 +5,10 @@ Data Sceince Coursera Course 3: Project
 Script name : run_analysis.R
 
 Requirements for running the run_analysis.R script:
+1. 
+2.
+3. 
+
 1. R version 3.1.1 
 2. "plyr" package downloaded
 3. Data should be in the same directory as the script. The working directory should have the following structure:
